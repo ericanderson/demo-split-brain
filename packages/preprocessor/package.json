@@ -1,0 +1,17 @@
+{
+  "name": "preprocessor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "analyze": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "jiti": "^2.5.1"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1",
+  "type": "module"
+}
